@@ -4,7 +4,7 @@
             <div class="shopping-mall-left">
                 <span>欢迎来到药兜网</span>
             </div>
-            <div class="shopping-mall-right">右边</div>
+            <div class="shopping-mall-right">大家好才是真的好</div>
         </header>
     </div>
 </template>
